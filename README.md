@@ -24,4 +24,5 @@ O sistema monitora 5 estados distintos para garantir a segurança do reservatór
    pip install colorama
 
 👩‍💻 Sobre a Autora
+
 Desenvolvido por Mariana, Estudante de desenvolvimento de sistemas. Este projeto integra meu portfólio técnico, demonstrando habilidades em lógica de programação, manipulação de bibliotecas externas e boas práticas de versionamento.* Todas em desenvolvimento.
