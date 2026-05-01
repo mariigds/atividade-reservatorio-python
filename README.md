@@ -14,7 +14,7 @@ O sistema monitora 5 estados distintos para garantir a segurança do reservatór
 2.  **Nível Baixo (Amarelo):** Alerta de atenção para consumo reduzido.
 3.  **Nível Médio (Verde):** Volume seguro e estável.
 4.  **Nível Alto (Ciano):** Estado de transição do volume para Alto.
-5.  **Nível Pleno (Azul):** Reservatório em sua capacidade máxima operacional.
+5.  **Nível Muito Alto (Azul):** Reservatório em sua capacidade máxima operacional.
 
 ## 📦 Como Instalar e Rodar o Projeto
 
